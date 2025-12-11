@@ -1,3 +1,14 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1765469504734,
+      "name": "Er",
+      "when": "2025-12-11T22:00:00.000Z"
+    },
+    {
+      "id": 1765469522100,
+      "name": "Eric ramalho Felix Aro",
+      "when": "2025-12-11T23:00:00.000Z"
+    }
+  ]
 }
